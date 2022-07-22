@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **MongoDB and Python**
 
-- 👨‍💻 All of my projects are available at [https://thekiller1959.github.io/portfolio/](<a href="https://thekiller1959.github.io/portfolio/" target="blank">)
+- 👨‍💻 All of my projects are available at [<a href="https://thekiller1959.github.io/portfolio/" target="blank">](https://thekiller1959.github.io/portfolio/)
 
 - 📫 How to reach me **thekiller1959yt@gmail.com**
 
