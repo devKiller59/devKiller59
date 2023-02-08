@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! 👋, I'm Wilmar Rodríguez, as known as TheKiller1959</h1>
+<h1 align="center">Hi there! 👋, I'm Wilmar Rodríguez</h1>
 <h3 align="center">A passionate web developer from Colombia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thekiller1959&label=Profile%20views&color=0e75b6&style=flat" alt="thekiller1959" /> </p>
