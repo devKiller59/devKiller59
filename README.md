@@ -27,4 +27,4 @@
 
 <h3>Support:</h3>
 
-<p><a href="https://ko-fi.com/thekiller1959"> <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="thekiller1959" /></a></p></p>
+<p><a href="https://ko-fi.com/wilrodriguez59"> <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="wilrodriguez59" /></a></p></p>
