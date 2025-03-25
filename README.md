@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at <a href="[https://devKiller59.github.io/portfolio/](https://devKiller59.github.io/portfolio/)" target="blank">https://devKiller59.github.io/portfolio/</a>
 
-- 📫 How to reach me **wilrodriguez159@gmail.com**
+- 📫 How to reach me **thekiller1959@gmail.com**
 
 - ⚡ Fun fact **I like Videogames, electronic music and audiovisual projects production**
 
