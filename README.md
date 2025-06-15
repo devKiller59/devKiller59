@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! 👋, I'm devKiller59</h1>
+<h1 align="center">Hi there! 👋, I'm DevKiller59</h1>
 <h3 align="center">A passionate web developer from Colombia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devKiller59&label=Profile%20views&color=0e75b6&style=flat" alt="devKiller59" /> </p>
@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **personal projects**
 
-- 🌱 I’m currently learning **MongoDB and Python**
+- 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at <a href="[https://devKiller59.github.io/portfolio/](https://devKiller59.github.io/portfolio/)" target="blank">https://devKiller59.github.io/portfolio/</a>
 
-- 📫 How to reach me **thekiller1959@gmail.com**
+- 📫 How to reach me **devkiller59@gmail.com**
 
 - ⚡ Fun fact **I like Videogames, electronic music and audiovisual projects production**
 
