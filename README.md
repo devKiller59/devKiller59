@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devKiller59&label=Profile%20views&color=0e75b6&style=flat" alt="devKiller59" /> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=devKiller59&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
-
 - 🔭 I’m currently working on **personal projects**
 
 - 🌱 I’m currently learning **Python**
