@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at <a href="[https://devkiller59.netlify.app](https://devkiller59.netlify.app)"></a>
+- 👨‍💻 All of my projects are available at <a href="https://devkiller59.netlify.app">devkiller59.netlify.app</a>
 
 - 📫 How to reach me **devkiller59@gmail.com**
 
