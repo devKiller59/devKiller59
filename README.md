@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! 👋, I'm DevKiller59</h1>
+<h1 align="center">Hi there! 👋, I'm devKiller59</h1>
 <h3 align="center">A passionate web developer from Colombia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devKiller59&label=Profile%20views&color=0e75b6&style=flat" alt="devKiller59" /> </p>
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at <a href="[https://devKiller59.github.io/portfolio/](https://devKiller59.github.io/portfolio/)" target="blank">https://devKiller59.github.io/portfolio/</a>
+- 👨‍💻 All of my projects are available at <a href=https://devkiller59.netlify.app/</a>
 
 - 📫 How to reach me **devkiller59@gmail.com**
 
@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<p align="left"><a href="https://linkedin.com/in/wilrodriguez59" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wilrodriguez59" height="30" width="40" /></a></p><br>
+<p align="left"><a href="https://linkedin.com/in/devKiller59" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devKiller59" height="30" width="40" /></a></p><br>
 
 <h3 align="left">Languages and Tools:</h3>
 
