@@ -7,7 +7,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Backend+Strategist;Problem+Solver;Killing+bugs%2C+building+solutions...";" alt="Typing SVG" />
 </p>
-
 ---
 
 ### 🌑 About Me
