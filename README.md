@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="devKiller59 Banner" width="100%" />
+  <img src="devbanner.png" alt="devKiller59 Banner" width="100%" />
 </p>
 
 # ⚡ Welcome to my Dev-Lair | I'm devKiller59
